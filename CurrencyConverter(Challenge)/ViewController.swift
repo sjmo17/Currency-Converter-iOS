@@ -51,7 +51,7 @@ class ViewController: UIViewController {
             let amount = Double(amountText) else {
                 return }
         
-        let rate = 6.63215
+        let rate = 6.99145
         let amountConverted = amount * rate
         //let roundedAmountConverted = (100 * amountConverted).rounded() / 100
         
